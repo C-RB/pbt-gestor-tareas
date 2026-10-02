@@ -1,0 +1,14 @@
+{
+  "name": "pbt-gestor-tareas",
+  "version": "1.0.0",
+  "description": "Gestor de tareas en memoria validado con Property-Based Testing (fast-check)",
+  "type": "module",
+  "main": "src/taskManager.js",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "fast-check": "^4.10.2"
+  }
+}
