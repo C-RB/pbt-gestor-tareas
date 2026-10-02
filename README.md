@@ -2,6 +2,14 @@
 
 Laboratorio de Pruebas de Software (ICC735). Sistema CRUD en memoria para la entidad **Tarea**, validado con pruebas basadas en propiedades usando [fast-check](https://fast-check.dev/).
 
+#### Integrantes:
+
+- Armin Hucke
+- Camilo Rojas
+- Robin Vásquez
+- Nicolás Llancaqueo
+- Sebastián Yáñez
+
 ## Uso
 
 ```bash
